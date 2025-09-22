@@ -365,13 +365,19 @@ BioFeedback-VR-v1.0/
     └── Packages/               # Package dependencies
 ```
 
+## Authors and Contributors
+
+**Lead Developer:** Uvesh M. Patel  
+**Institution:** NISC Lab, University of Messina  
+**Contact:** nisc.lab.unime@gmail.com
+
 ## License and Citation
 
 This software is provided for research and educational purposes. When using this system in academic work, please cite:
 
 ```
 BioFeedback-VR v1.0: Real-Time Physiological Data Streaming for Virtual Reality Applications
-NISC Lab, University of Messina, 2024
+Uvesh M. Patel, NISC Lab, University of Messina, 2024
 ```
 
 ## Support and Documentation
