@@ -1,0 +1,242 @@
+{
+  "session_info": {
+    "start_time": "2025-08-04T03:41:43.259787",
+    "duration_seconds": 205.88295316696167,
+    "samples_generated": 29,
+    "stream_frequency_hz": 0.167
+  },
+  "data": [
+    {
+      "timestamp": "2025-08-04T01:42:07.401623+00:00",
+      "hr": 74.9,
+      "eda": 1.963,
+      "hrv": 50.0,
+      "stress": 40.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:13.403478+00:00",
+      "hr": 76.7,
+      "eda": 2.235,
+      "hrv": 10.0,
+      "stress": 49.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:19.394232+00:00",
+      "hr": 77.9,
+      "eda": 2.105,
+      "hrv": 10.0,
+      "stress": 49.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:25.397742+00:00",
+      "hr": 75.8,
+      "eda": 2.195,
+      "hrv": 10.0,
+      "stress": 48.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:31.397043+00:00",
+      "hr": 80.7,
+      "eda": 1.828,
+      "hrv": 13.4,
+      "stress": 48.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:37.391264+00:00",
+      "hr": 86.2,
+      "eda": 3.064,
+      "hrv": 15.0,
+      "stress": 53.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:43.386447+00:00",
+      "hr": 91.0,
+      "eda": 4.073,
+      "hrv": 14.0,
+      "stress": 58.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:49.387337+00:00",
+      "hr": 98.1,
+      "eda": 4.049,
+      "hrv": 14.2,
+      "stress": 59.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:42:55.385788+00:00",
+      "hr": 90.5,
+      "eda": 4.081,
+      "hrv": 14.5,
+      "stress": 57.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:01.390414+00:00",
+      "hr": 83.3,
+      "eda": 3.299,
+      "hrv": 15.4,
+      "stress": 53.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:13.293814+00:00",
+      "hr": 73.8,
+      "eda": 3.06,
+      "hrv": 21.9,
+      "stress": 49.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:19.290850+00:00",
+      "hr": 73.1,
+      "eda": 2.505,
+      "hrv": 23.2,
+      "stress": 46.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:25.289759+00:00",
+      "hr": 75.1,
+      "eda": 1.679,
+      "hrv": 22.7,
+      "stress": 44.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:31.289176+00:00",
+      "hr": 79.7,
+      "eda": 1.455,
+      "hrv": 21.9,
+      "stress": 45.2,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:37.289903+00:00",
+      "hr": 76.5,
+      "eda": 1.959,
+      "hrv": 21.2,
+      "stress": 46.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:43.291120+00:00",
+      "hr": 75.3,
+      "eda": 1.921,
+      "hrv": 21.6,
+      "stress": 45.7,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:49.286858+00:00",
+      "hr": 69.4,
+      "eda": 2.163,
+      "hrv": 22.2,
+      "stress": 44.9,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:43:55.285645+00:00",
+      "hr": 74.6,
+      "eda": 2.412,
+      "hrv": 22.2,
+      "stress": 47.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:01.277482+00:00",
+      "hr": 76.3,
+      "eda": 2.408,
+      "hrv": 22.1,
+      "stress": 47.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:07.279621+00:00",
+      "hr": 70.7,
+      "eda": 1.793,
+      "hrv": 22.2,
+      "stress": 44.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:13.277711+00:00",
+      "hr": 76.9,
+      "eda": 1.678,
+      "hrv": 22.4,
+      "stress": 45.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:19.280791+00:00",
+      "hr": 75.6,
+      "eda": 1.798,
+      "hrv": 22.4,
+      "stress": 45.2,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:25.272203+00:00",
+      "hr": 72.7,
+      "eda": 1.674,
+      "hrv": 21.9,
+      "stress": 44.2,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:31.262914+00:00",
+      "hr": 73.4,
+      "eda": 2.191,
+      "hrv": 23.3,
+      "stress": 45.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:37.266194+00:00",
+      "hr": 73.3,
+      "eda": 2.65,
+      "hrv": 25.0,
+      "stress": 47.0,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:43.268657+00:00",
+      "hr": 77.4,
+      "eda": 1.937,
+      "hrv": 25.0,
+      "stress": 45.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:49.267705+00:00",
+      "hr": 74.6,
+      "eda": 1.768,
+      "hrv": 25.0,
+      "stress": 44.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:44:55.259502+00:00",
+      "hr": 73.8,
+      "eda": 1.871,
+      "hrv": 25.7,
+      "stress": 44.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:45:01.250485+00:00",
+      "hr": 72.4,
+      "eda": 1.892,
+      "hrv": 25.5,
+      "stress": 44.2,
+      "scenario": "mixed"
+    }
+  ]
+}

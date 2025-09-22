@@ -1,0 +1,274 @@
+{
+  "session_info": {
+    "start_time": "2025-08-04T03:33:52.289206",
+    "duration_seconds": 120.45086216926575,
+    "samples_generated": 33,
+    "stream_frequency_hz": 0.33
+  },
+  "data": [
+    {
+      "timestamp": "2025-08-04T01:34:04.555222+00:00",
+      "hr": 73.8,
+      "eda": 2.06,
+      "hrv": 50.0,
+      "stress": 40.7,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:07.589547+00:00",
+      "hr": 78.5,
+      "eda": 2.3,
+      "hrv": 10.0,
+      "stress": 49.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:10.623294+00:00",
+      "hr": 80.7,
+      "eda": 2.474,
+      "hrv": 14.6,
+      "stress": 50.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:13.670483+00:00",
+      "hr": 76.4,
+      "eda": 2.312,
+      "hrv": 12.4,
+      "stress": 48.9,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:16.713551+00:00",
+      "hr": 77.4,
+      "eda": 2.369,
+      "hrv": 15.8,
+      "stress": 48.7,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:19.753462+00:00",
+      "hr": 81.4,
+      "eda": 2.241,
+      "hrv": 14.5,
+      "stress": 49.5,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:22.798685+00:00",
+      "hr": 75.5,
+      "eda": 2.141,
+      "hrv": 16.2,
+      "stress": 47.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:25.845746+00:00",
+      "hr": 74.8,
+      "eda": 1.426,
+      "hrv": 18.0,
+      "stress": 44.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:28.884568+00:00",
+      "hr": 89.0,
+      "eda": 1.898,
+      "hrv": 36.0,
+      "stress": 46.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:31.921804+00:00",
+      "hr": 90.2,
+      "eda": 2.923,
+      "hrv": 35.7,
+      "stress": 50.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:34.957153+00:00",
+      "hr": 92.2,
+      "eda": 2.446,
+      "hrv": 34.7,
+      "stress": 49.2,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:38.000269+00:00",
+      "hr": 82.9,
+      "eda": 2.881,
+      "hrv": 34.7,
+      "stress": 48.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:41.035696+00:00",
+      "hr": 87.9,
+      "eda": 4.339,
+      "hrv": 33.2,
+      "stress": 54.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:44.073957+00:00",
+      "hr": 99.4,
+      "eda": 4.599,
+      "hrv": 33.5,
+      "stress": 58.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:47.112768+00:00",
+      "hr": 95.4,
+      "eda": 4.108,
+      "hrv": 32.7,
+      "stress": 55.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:50.153643+00:00",
+      "hr": 90.2,
+      "eda": 3.99,
+      "hrv": 31.6,
+      "stress": 54.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:53.186327+00:00",
+      "hr": 90.4,
+      "eda": 4.039,
+      "hrv": 32.2,
+      "stress": 54.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:56.231985+00:00",
+      "hr": 83.6,
+      "eda": 3.516,
+      "hrv": 31.4,
+      "stress": 51.2,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:34:59.266815+00:00",
+      "hr": 78.6,
+      "eda": 3.194,
+      "hrv": 30.5,
+      "stress": 49.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:02.309343+00:00",
+      "hr": 72.0,
+      "eda": 3.146,
+      "hrv": 30.4,
+      "stress": 47.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:05.353532+00:00",
+      "hr": 71.7,
+      "eda": 3.245,
+      "hrv": 31.5,
+      "stress": 47.4,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:08.398409+00:00",
+      "hr": 77.2,
+      "eda": 3.046,
+      "hrv": 31.5,
+      "stress": 48.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:11.444742+00:00",
+      "hr": 71.9,
+      "eda": 2.49,
+      "hrv": 31.7,
+      "stress": 44.9,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:23.794013+00:00",
+      "hr": 73.2,
+      "eda": 1.997,
+      "hrv": 31.4,
+      "stress": 43.7,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:26.840861+00:00",
+      "hr": 73.9,
+      "eda": 1.69,
+      "hrv": 32.4,
+      "stress": 42.6,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:29.885983+00:00",
+      "hr": 78.2,
+      "eda": 1.555,
+      "hrv": 32.2,
+      "stress": 43.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:32.922673+00:00",
+      "hr": 75.4,
+      "eda": 1.358,
+      "hrv": 31.4,
+      "stress": 42.1,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:35.968891+00:00",
+      "hr": 73.3,
+      "eda": 1.901,
+      "hrv": 24.1,
+      "stress": 44.7,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:39.010291+00:00",
+      "hr": 77.1,
+      "eda": 2.255,
+      "hrv": 23.2,
+      "stress": 46.9,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:42.056376+00:00",
+      "hr": 75.1,
+      "eda": 1.968,
+      "hrv": 22.9,
+      "stress": 45.5,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:45.088753+00:00",
+      "hr": 74.7,
+      "eda": 2.043,
+      "hrv": 22.6,
+      "stress": 45.8,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:48.125336+00:00",
+      "hr": 73.1,
+      "eda": 1.745,
+      "hrv": 22.8,
+      "stress": 44.3,
+      "scenario": "mixed"
+    },
+    {
+      "timestamp": "2025-08-04T01:35:51.161113+00:00",
+      "hr": 73.2,
+      "eda": 1.999,
+      "hrv": 21.1,
+      "stress": 45.5,
+      "scenario": "mixed"
+    }
+  ]
+}
