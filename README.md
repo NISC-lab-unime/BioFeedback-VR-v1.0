@@ -369,8 +369,7 @@ BioFeedback-VR-v1.0/
 
 **Lead Developer:** Uvesh M. Patel  
 **Supervisor:** Prof. Giorgio Mario Grasso  
-**Institution:** NISC Lab, University of Messina  
-**Contact:** nisc.lab.unime@gmail.com
+**Institution:** NISC Lab, University of Messina 
 
 **Project Context:**  
 This work was developed as part of the **POFESR_1.1.5_DL4HEALTH_2014_2020** project, a research initiative focused on Deep Learning applications in Healthcare at the University of Messina.
