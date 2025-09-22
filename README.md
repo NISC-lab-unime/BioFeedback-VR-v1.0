@@ -381,6 +381,6 @@ For technical support, bug reports, or research collaboration inquiries, please 
 ---
 
 **Version:** 1.0  
-**Last Updated:** September 2024  
+**Last Updated:** September 2025  
 **Compatibility:** Python 3.8+, Unity 2021.3+  
 **Platform Support:** Windows, macOS, Linux
