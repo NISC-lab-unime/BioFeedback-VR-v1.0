@@ -381,7 +381,7 @@ This software is provided for research and educational purposes. When using this
 ```
 BioFeedback-VR v1.0: Real-Time Physiological Data Streaming for Virtual Reality Applications
 Uvesh M. Patel, supervised by Prof. Giorgio Mario Grasso
-NISC Lab, University of Messina, 2024
+NISC Lab, University of Messina, 2025
 Project: POFESR_1.1.5_DL4HEALTH_2014_2020
 ```
 
