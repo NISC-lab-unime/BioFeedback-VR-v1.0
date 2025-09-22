@@ -368,8 +368,12 @@ BioFeedback-VR-v1.0/
 ## Authors and Contributors
 
 **Lead Developer:** Uvesh M. Patel  
+**Supervisor:** Prof. Giorgio Mario Grasso  
 **Institution:** NISC Lab, University of Messina  
 **Contact:** nisc.lab.unime@gmail.com
+
+**Project Context:**  
+This work was developed as part of the **POFESR_1.1.5_DL4HEALTH_2014_2020** project, a research initiative focused on Deep Learning applications in Healthcare at the University of Messina.
 
 ## License and Citation
 
@@ -377,7 +381,9 @@ This software is provided for research and educational purposes. When using this
 
 ```
 BioFeedback-VR v1.0: Real-Time Physiological Data Streaming for Virtual Reality Applications
-Uvesh M. Patel, NISC Lab, University of Messina, 2024
+Uvesh M. Patel, supervised by Prof. Giorgio Mario Grasso
+NISC Lab, University of Messina, 2024
+Project: POFESR_1.1.5_DL4HEALTH_2014_2020
 ```
 
 ## Support and Documentation

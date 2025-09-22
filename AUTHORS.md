@@ -7,6 +7,21 @@
 - NISC Lab, University of Messina
 - Email: nisc.lab.unime@gmail.com
 
+## Project Supervisor
+
+**Prof. Giorgio Mario Grasso**
+- Professor, University of Messina
+- Research Areas: Artificial Intelligence, Robotics, Computer Vision, Neural Networks, Big Data
+- Google Scholar: https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it
+- NISC Lab, University of Messina
+
+## Project Information
+
+**Project:** POFESR_1.1.5_DL4HEALTH_2014_2020  
+**Focus:** Deep Learning Applications in Healthcare  
+**Institution:** University of Messina  
+**Context:** Research scholarship program for Computer Science and Computer Engineering graduates
+
 ### Contributions:
 - Complete system architecture and design
 - Python WebSocket server implementation
